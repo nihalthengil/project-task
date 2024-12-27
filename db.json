@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "0b7f",
+      "name": "nihal ahammed",
+      "email": "nihalap@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "5f02",
+      "name": "ajmal",
+      "email": "ajmalaju@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "80b1",
+      "name": "Faris",
+      "email": "Faris@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 200
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 300
+    }
+  ]
+}
